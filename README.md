@@ -62,8 +62,8 @@ A multi-timer management app built using **React Native + Expo** that helps user
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/shalininukella/custom-timer-app.git
-cd custom-timer-app
+git clone https://github.com/shalininukella/CustomTimerApp.git
+cd CustomTimerApp
 ```
 
 ### 2. Install dependencies
@@ -96,7 +96,7 @@ Then press:
 
 Want to try it without setting up the code?
 
-👉 **[Download the latest APK here](https://expo.dev/artifacts/eas/kq3peF6GiFhNcSJk79NxWB.apk)**
+👉 [Download Custom Timer APK](https://github.com/shalininukella/CustomTimerApp/releases/latest)
 
 > 📱 Once downloaded, install it on your Android device and start using the multi-timer functionality instantly!
 
