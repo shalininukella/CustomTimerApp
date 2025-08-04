@@ -96,7 +96,7 @@ Then press:
 
 Want to try it without setting up the code?
 
-👉 **[Download the latest APK here](https://drive.google.com/file/d/1VFJUFbZzRUw5xS0UtX_UwQrXZDIqBOj0/view?usp=sharing)** (hosted via Google Drive)
+👉 **[Download the latest APK here](https://expo.dev/artifacts/eas/kq3peF6GiFhNcSJk79NxWB.apk)**
 
 > 📱 Once downloaded, install it on your Android device and start using the multi-timer functionality instantly!
 
