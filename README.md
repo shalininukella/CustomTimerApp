@@ -57,32 +57,54 @@ A multi-timer management app built using **React Native + Expo** that helps user
 
 ---
 
-## 📦 Installation & Setup
+## 📦 Installation & Setup (Development)
 
 ### 1. Clone the repo
 
 ```bash
 git clone https://github.com/shalininukella/custom-timer-app.git
 cd custom-timer-app
+```
 
+### 2. Install dependencies
 
-## Install dependencies
+```bash
 npm install
+```
 
-## Install web dependencies (for browser preview)
+### 3. Install web dependencies (for browser preview)
+
+```bash
 npx expo install react-dom react-native-web @expo/metro-runtime
+```
 
-## Start the app
+### 4. Start the app
 
+```bash
 npm start
-Press i → Open in iOS Simulator
+```
 
-Press a → Open in Android Emulator
+Then press:
 
-Press w → Open in Web Browser
+- `i` → Open in iOS Simulator
+- `a` → Open in Android Emulator
+- `w` → Open in Web Browser
+
+---
+
+## 📲 Download APK
+
+Want to try it without setting up the code?
+
+👉 **[Download the latest APK here](https://drive.google.com/file/d/1VFJUFbZzRUw5xS0UtX_UwQrXZDIqBOj0/view?usp=sharing)** (hosted via Google Drive)
+
+> 📱 Once downloaded, install it on your Android device and start using the multi-timer functionality instantly!
+
+---
 
 ## 🗂️ Project Structure
 
+```
 src/
 ├── components/         // Reusable UI components
 ├── screens/            // HomeScreen, AddTimerScreen, HistoryScreen
